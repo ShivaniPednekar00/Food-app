@@ -2,6 +2,7 @@
   "name": "food-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ShivaniPednekar00.github.io/Food-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
